@@ -10,7 +10,7 @@ const Hero = () => {
                 <h2 className='text-4xl  sm:text-7xl font-bold text-[#0078d4]'> Abdulmalek Al-Aktaa </h2>
                 <h3 className='text-4xl sm:text-7xl font-bold text-[#cdcdcd]'> React Front-End Developer </h3>
                 <div className='flex'>
-                    <p className='text-white'> Skills & Expertise:  </p>
+                    {/* <p className='text-white'> Skills & Expertise:  </p>
                     <Typed className='text-yellow-300'
                         strings={[
                             'Attention to detail',
@@ -23,7 +23,7 @@ const Hero = () => {
                         typeSpeed={80}
                         backSpeed={70}
                         loop >
-                    </Typed>
+                    </Typed> */}
                 </div>
                 <p className='text-gray-300 my-4 max-w-[800px]'>
                     As a Junior Front End Developer, I am skilled in React JS, HTML, CSS, and JavaScript.

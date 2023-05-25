@@ -13,8 +13,7 @@ const Work = () => {
                     {
                         WorkData.map(item => <CardWork
                             key={item.id}
-                            path={item.path}
-                            title={item.title}
+                            items={item}
                         />)
                     }
                 </div>

@@ -1,17 +1,24 @@
-import { Hero, About, Skills, Work, Contact } from './Sections';
-import { Footer, Navbare } from './Components';
-import CopyButton from './Components/CopyButton';
+import Home from './Pages/Home';
+import { Route, Routes } from 'react-router-dom'
+import Pages from './Pages/Pages';
+import WorkData from './Data/WorkData';
+
+
+
 function App() {
   return (
     <>
-      <Navbare />
-      <Hero />
-      <About />
-      <Skills />
-      <Work />
-      <Contact />
-      <CopyButton />
-      <Footer />
+      <Routes>
+        <Route path='/Portfolio' element={<Home />} />
+        {
+          WorkData.map(page =>
+            <Route
+              key={page}
+              path={page.path}
+              element={<Pages content={page} />} />
+          )
+        }
+      </Routes>
     </>
   );
 }
