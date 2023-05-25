@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e20c1693.css",
-    "main.js": "/Portfolio/static/js/main.cb1352d1.js",
-    "static/media/store.png": "/Portfolio/static/media/store.9f206444253024863f64.png",
+    "main.css": "/Portfolio/static/css/main.f01a4e9f.css",
+    "main.js": "/Portfolio/static/js/main.42c21043.js",
+    "static/media/netflix.png": "/Portfolio/static/media/netflix.0c1316e752589f172558.png",
+    "static/media/crown.png": "/Portfolio/static/media/crown.9f206444253024863f64.png",
     "static/media/mtn.png": "/Portfolio/static/media/mtn.f92e0d52055858ac3683.png",
-    "static/media/apple.png": "/Portfolio/static/media/apple.122a322f3e1fda1db1f1.png",
     "static/media/roya.png": "/Portfolio/static/media/roya.d8b9baaa8dfef54f3e92.png",
-    "static/media/profile.png": "/Portfolio/static/media/profile.ca6b78df73e606e1682b.png",
-    "static/media/game.png": "/Portfolio/static/media/game.515550a18cea790bc487.png",
-    "static/media/Abdulmalek Al-Aktaa.pdf": "/Portfolio/static/media/Abdulmalek Al-Aktaa.4a8c1101e206a3c4b4c7.pdf",
+    "static/media/execute.png": "/Portfolio/static/media/execute.ca6b78df73e606e1682b.png",
+    "static/media/cyborg.png": "/Portfolio/static/media/cyborg.515550a18cea790bc487.png",
+    "static/media/Abdulmalek Al-Aktaa.pdf": "/Portfolio/static/media/Abdulmalek Al-Aktaa.5695c505bc9013349da9.pdf",
     "static/media/Logo.png": "/Portfolio/static/media/Logo.558121ef54a43efe438f.png",
     "index.html": "/Portfolio/index.html",
-    "main.e20c1693.css.map": "/Portfolio/static/css/main.e20c1693.css.map",
-    "main.cb1352d1.js.map": "/Portfolio/static/js/main.cb1352d1.js.map"
+    "main.f01a4e9f.css.map": "/Portfolio/static/css/main.f01a4e9f.css.map",
+    "main.42c21043.js.map": "/Portfolio/static/js/main.42c21043.js.map"
   },
   "entrypoints": [
-    "static/css/main.e20c1693.css",
-    "static/js/main.cb1352d1.js"
+    "static/css/main.f01a4e9f.css",
+    "static/js/main.42c21043.js"
   ]
 }
