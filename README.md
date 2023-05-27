@@ -1,7 +1,7 @@
 ### `Portfolio`
 
-This is my portfolio website built with React.js and Tailwind CSS. It showcases information about me, my skills, and my work. \
-You can also contact me through a message form using Getform and download my resume.\
+This is my portfolio website built with React.js and Tailwind CSS. It showcases information about me, my skills, and my work. 
+You can also contact me through a message form using Getform and download my resume.
 
 ### `Sections`
 About Me: This section provides a brief introduction about myself, highlighting my background, experiences, and interests.\
