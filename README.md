@@ -1,4 +1,4 @@
-### `Portfolio`
+# `Portfolio`
 
 This is my portfolio website built with React.js and Tailwind CSS. It showcases information about me, my skills, and my work. 
 You can also contact me through a message form using Getform and download my resume.
