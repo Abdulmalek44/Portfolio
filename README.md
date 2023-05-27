@@ -14,4 +14,4 @@ You can also contact me through a message form using Getform and download my res
 - Tailwind CSS: Utility-first CSS framework for responsive and customizable styling
 - Getform: A form backend service for handling form submissions
 
-For setup instructions and more details, please refer to the full documentation.
+For setup instructions and more details,You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
