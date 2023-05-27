@@ -7,7 +7,7 @@ import CopyButton from './CopyButton';
 
 const Footer = () => {
     return (
-        <div className='lg:hidden bg-[#121212] w-full  h-32 text-[#e2e2e2] pt-10'>
+        <div className='lg:hidden bg-[#191919] w-full  h-32 text-[#e2e2e2] pt-10'>
             <h1 className=' text-[#1950c8] text-xl font-semibold pb-6'> LET'S CONNECT </h1>
             <ul className='flex justify-evenly mx-auto items-center w-1/2'>
                 <li className='w-[50px] h-[50px] flex justify-center items-center rounded-full mx-2 px-4 bg-blue-600 hover:bg-[#1950c8]  duration-300'>

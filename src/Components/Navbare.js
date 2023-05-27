@@ -59,8 +59,8 @@ const Navbare = () => {
             </div>
 
             {/* Mobile menu */}
-            <div className={click ? ' bg-[#1313136d] absolute top-0 left-0 w-full h-screen ' : 'hidden'}>
-                <div className='w-4/5 h-screen bg-[#121212] p-10 flex flex-col '>
+            <div className={click ? '  absolute top-0 left-0 w-full h-screen ' : 'hidden'}>
+                <div className='w-4/5 h-screen bg-[#191919] p-10 flex flex-col '>
                     <div>
                         <Link to='hero' spy={true} smooth={true} offset={-100} duration={500} className='' >
                             <img src={img} alt='No_Photo' className='w-28  py-4' />
