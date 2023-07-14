@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c396636e.css",
-    "main.js": "/Portfolio/static/js/main.cd68775e.js",
+    "main.css": "/Portfolio/static/css/main.76caaa1f.css",
+    "main.js": "/Portfolio/static/js/main.103fa57f.js",
     "static/media/netflix.png": "/Portfolio/static/media/netflix.0c1316e752589f172558.png",
     "static/media/youtube.png": "/Portfolio/static/media/youtube.c3792ea476f51afff374.png",
     "static/media/mtn.png": "/Portfolio/static/media/mtn.f92e0d52055858ac3683.png",
@@ -10,12 +10,13 @@
     "static/media/Abdulmalek Al-Aktaa.pdf": "/Portfolio/static/media/Abdulmalek Al-Aktaa.686616ff53e37a5cf47e.pdf",
     "static/media/gpt.png": "/Portfolio/static/media/gpt.1a0777f9ae08f7208b6f.png",
     "static/media/Logo.png": "/Portfolio/static/media/Logo.558121ef54a43efe438f.png",
+    "static/media/react-q.svg": "/Portfolio/static/media/react-q.189ac05bdb4ff080c6bf5e866d06e888.svg",
     "index.html": "/Portfolio/index.html",
-    "main.c396636e.css.map": "/Portfolio/static/css/main.c396636e.css.map",
-    "main.cd68775e.js.map": "/Portfolio/static/js/main.cd68775e.js.map"
+    "main.76caaa1f.css.map": "/Portfolio/static/css/main.76caaa1f.css.map",
+    "main.103fa57f.js.map": "/Portfolio/static/js/main.103fa57f.js.map"
   },
   "entrypoints": [
-    "static/css/main.c396636e.css",
-    "static/js/main.cd68775e.js"
+    "static/css/main.76caaa1f.css",
+    "static/js/main.103fa57f.js"
   ]
 }
